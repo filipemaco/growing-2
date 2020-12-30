@@ -1,10 +1,6 @@
 #
 *.pyc
 __pycache
-.DS_Store
-.env.dev
-.env.prod
-.env.prod.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
